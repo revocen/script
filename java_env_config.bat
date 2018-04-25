@@ -7,7 +7,7 @@ cd /d %~dp0
 @ ECHO 重要：本文件需放在jdk的安装目录下，如：D:\Program Files\Java\jdk1.6.0_30
 @ ECHO --------------------------------------------------------------------
 @ ECHO 本批处理执行后，将作以下一些设置,确认后继续：
-@ ECHO 0、indow7及Windows Server 2008系统需要以管理员权限打开
+@ ECHO 0、window7及Windows Server 2008系统需要以管理员权限打开
 @ ECHO 1、设置JAVA_HOME 环境变量%cd%
 @ ECHO 2、设置PATH 环境变量%cd%\bin;%PATH%;
 @ ECHO 3、设置CLASSPATH 环境变量 .;%cd%\lib\tools.jar;%cd%\lib\dt.jar

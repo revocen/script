@@ -21,3 +21,7 @@ cd ..
 # 已安装程序目录
 md pf
 echo 已安装程序 >> pf/已安装程序
+cd pf
+md java
+echo java各版本根目录 >> java/java各版本根目录
+cd ..

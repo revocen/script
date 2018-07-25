@@ -14,7 +14,7 @@ md db
 echo 数据库文件 >> db/数据库文件
 cd db
 md bak
-md mysql
+# md mysql
 echo 数据库备份文件 >> bak/数据库备份文件
 cd ..
 
